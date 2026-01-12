@@ -1,5 +1,5 @@
 import { Box, Typography, Button } from '@mui/material';
-import logoLicittudo from '../../assets/logoLicittudo.png';
+import logoLicittudo from '../../assets/logolicittudo.png';
 
 export function Header() {
   return (
