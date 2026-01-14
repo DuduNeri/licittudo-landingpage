@@ -139,7 +139,7 @@ export function Hero() {
         }}
       >
         <iframe
-          src="https://www.youtube.com/embed/aJj-ydtskuQ"
+          src="https://www.youtube.com/embed/Ki2-IvyruyU"
           title="Apresentação Licittudo"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
