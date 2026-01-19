@@ -37,11 +37,11 @@ export function Questions() {
         'O Licittudo gera propostas conforme o TCU e a Caixa Econômica?',
       answer: 'Conteúdo sobre propostas...',
     },
-    {
-      id: 'panel4',
-      question: 'O que é o Radar de Licitação e como recebo alertas?',
-      answer: 'Conteúdo sobre radar...',
-    },
+    // {
+    //   id: 'panel4',
+    //   question: 'O que é o Radar de Licitação e como recebo alertas?',
+    //   answer: 'Conteúdo sobre radar...',
+    // },
     {
       id: 'panel5',
       question: 'Como funciona a Gestão de Certidões e documentos?',

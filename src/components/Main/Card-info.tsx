@@ -13,12 +13,12 @@ const cards = [
       "Perfeito para quem participa de pregões, concorrências e contratos públicos.",
     text: "Gerador de propostas alinhado às regras do TCU e da Caixa (arredondamentos, truncamentos e formatos exigidos). Ajuste o lance e gere a planilha/proposta pronta para submissão com um clique.",
   },
-  {
-    title: "Radar de Licitação",
-    subtitle:
-      "Útil para quem precisa identificar oportunidades locais e nacionais sem perder prazos.",
-    text: "Busque oportunidades (PNCP e portais locais) diretamente na plataforma usando filtros por estado, categoria, raio de proximidade e palavras-chave. Receba alertas e economize tempo na prospecção.",
-  },
+  // {
+  //   title: "Radar de Licitação",
+  //   subtitle:
+  //     "Útil para quem precisa identificar oportunidades locais e nacionais sem perder prazos.",
+  //   text: "Busque oportunidades (PNCP e portais locais) diretamente na plataforma usando filtros por estado, categoria, raio de proximidade e palavras-chave. Receba alertas e economize tempo na prospecção.",
+  // },
   {
     title: "Integração SINAPI e Bases Oficiais",
     subtitle:
@@ -31,12 +31,12 @@ const cards = [
       "Evita perda de prazos e facilita a apresentação documental em licitações.",
     text: "Centralize certidões, relatórios e documentos de habilitação. Controle vencimentos, gere lembretes e exporte pacotes documentais prontos para anexar em propostas e processos licitatórios.",
   },
-  {
-    title: "Base de Conhecimento & Newsletter",
-    subtitle:
-      "Mantém sua equipe informada e reduz riscos por falta de atualização normativa.",
-    text: "Acesso a conteúdos técnicos, atualizações legislativas, guias de cálculo e um newsletter segmentado por categoria. Assine temas específicos para receber só o que interessa ao seu negócio.",
-  },
+  // {
+  //   title: "Base de Conhecimento & Newsletter",
+  //   subtitle:
+  //     "Mantém sua equipe informada e reduz riscos por falta de atualização normativa.",
+  //   text: "Acesso a conteúdos técnicos, atualizações legislativas, guias de cálculo e um newsletter segmentado por categoria. Assine temas específicos para receber só o que interessa ao seu negócio.",
+  // },
 ];
 
 export function CardInfo() {

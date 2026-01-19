@@ -4,7 +4,7 @@ import CancelIcon from '@mui/icons-material/Cancel';
 
 const perde = [
   'Tempo precioso com tarefas manuais e repetitivas em planilhas.',
-  'Bons editais por não conseguir monitorar todas as fontes manualmente.',
+  // 'Bons editais por não conseguir monitorar todas as fontes manualmente.',
   'Dinheiro ao orçar com bases de preços desatualizadas.',
   'A licitação por erros técnicos na formatação da proposta.',
   'Prazos cruciais por desorganização de documentos e certidões.',
@@ -14,7 +14,7 @@ const ganha = [
   'Rapidez: Orçamentos e propostas automáticas gerados em minutos.',
   'Conformidade: Propostas alinhadas às regras do TCU e Caixa.',
   'Precisão: Acesso à base SINAPI sempre atualizada e integrada.',
-  'Oportunidades: Radar que encontra licitações no PNCP e portais locais.',
+  // 'Oportunidades: Radar que encontra licitações no PNCP e portais locais.',
   'Organização: Gestão centralizada de certidões com alertas de vencimento.',
 ];
 
