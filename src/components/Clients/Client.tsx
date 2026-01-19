@@ -96,7 +96,7 @@ export function Client() {
             src={img}
             alt=""
             sx={{
-              height: { xs: "90px", sm: "120px", md: "160px" },
+              height: { sm: "120px", md: "160px" },
               objectFit: "contain",
             }}
           />
